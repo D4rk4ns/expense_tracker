@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.378a80e3.css","mappings":"AAAA,gBACI,WAAY,CACZ,QACJ,CAGA,KACI,uFAAgD,CAChD,qBAEJ","sources":["index.css"],"sourcesContent":["#root, body, html {\r\n    height: 100%;\r\n    margin: 0;\r\n}\r\n\r\n\r\nbody {\r\n    background-image: url(\"./assets/background.png\"); \r\n    background-size: cover;\r\n\r\n}\r\n"],"names":[],"sourceRoot":""}
